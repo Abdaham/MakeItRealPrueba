@@ -1,0 +1,21 @@
+body{
+  background-image: url("https://images.pexels.com/photos/2127969/pexels-photo-2127969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;  
+}
+.rond{
+	width:188px;
+    height:190px;
+    border-radius:180px;
+	border: 5px solid white;
+	bor
+}
+#photo{
+	text-align: center;
+	margin-top:100px;
+}
+h1, h2{
+	color:white;
+	font-family: 'Lato', sans-serif;
+}
